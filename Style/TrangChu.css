@@ -1,0 +1,21 @@
+.TrangChu-menu{
+  font-size: 25px;
+  
+}
+
+ul{
+  list-style-type: none;
+}
+.TenVua{
+  text-align: center;
+  font-size: 80px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: red;
+  font-weight: bold;
+
+}
+.foot{
+  font-weight:bold;
+  font-style: italic;
+  font-size: 30px;
+}
